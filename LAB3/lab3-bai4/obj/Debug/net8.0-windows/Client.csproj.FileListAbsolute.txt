@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\lab3_bai4.Form1.resources
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\bin\Debug\net8.0-windows\Client.exe
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\bin\Debug\net8.0-windows\Client.dll
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.dll
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\lab3-bai4\lab3-bai4\obj\Debug\net8.0-windows\ref\Client.dll
